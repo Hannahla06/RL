@@ -1,0 +1,9 @@
+Folgende Bibliotheken werden zur Ausführung des Codes benötigt:
+
+gym
+pygame
+numpy
+random
+IPython
+
+Der Code wird in einem Jupyter Notebook ausgeführt. Das kann beispielsweise über den Anaconda Navigator ausgeführt werden oder über VS Code. 
