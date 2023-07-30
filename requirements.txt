@@ -6,4 +6,4 @@ numpy
 random
 IPython
 
-Der Code wird in einem Jupyter Notebook ausgeführt. Das kann beispielsweise über den Anaconda Navigator ausgeführt werden oder über VS Code. 
+Der Code wird in einem Jupyter Notebook ausgeführt. Das kann beispielsweise über den Anaconda Navigator ausgeführt werden oder über Visual Studio Code. 
